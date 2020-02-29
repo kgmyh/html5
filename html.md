@@ -15,9 +15,13 @@
     <id>1</id>
     <name></name>
     <age>20</age>
-    <weight>70kg</weight>
+    <weight measure='kg'>70</weight>
 </member>
 ```
+
+* 태그는 각각 의미를 가지고 있다.
+* open 태그와 close 태그 짝으로 이루어져 있다. 
+* 추가적인 의미는 태그의 속성을 사용한다.
 
 
 
